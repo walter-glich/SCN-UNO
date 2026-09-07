@@ -9,7 +9,6 @@
 ╚══════╝ ╚═════╝╚═╝  ╚═══╝        ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ 
 ```
 
-### 🕵️ Scanner de red rápido y silencioso, escrito en Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Termux%20%7C%20Linux%20%7C%20Windows-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -32,9 +31,11 @@ detecta que tipo de dispositivo es
 
 **(INSTALACION)**
 
+**pkg install python**
 
-**git clone https://github.com/walter-glich/SCN-UNO.git
-cd SCN-UNO**
+**git clone https://github.com/walter-glich/SCN-UNO.git**
+
+**cd SCN-UNO**
 
 ------------------------------------------
 
