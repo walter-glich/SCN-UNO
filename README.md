@@ -18,31 +18,30 @@
 
 </div>
 
----
+------------------------------------------
+🌐 **Escaneo de IPs** — 
+detecta hosts activos en la red
 
-## ⚡ Features
+🔓 **Escaneo de puertos** — identifica puertos abiertos en los hosts encontrados
 
-- 🌐 **Escaneo de IPs** — detecta hosts activos en la red
-- 🔓 **Escaneo de puertos** — identifica puertos abiertos en los hosts encontrados
-- 🖥️ **Detección de sistema operativo** — estima el SO de cada host escaneado
+🖥️ **Deteccion de Dispositivos**
+detecta que tipo de dispositivo es
+(celular,iphone,pc,impresoras,etc..)
 
----
+------------------------------------------
 
 ## 💻 Instalación
 
 ```bash
 git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
-pip install -r requirements.txt
-```
+cd SCN-UNO
 
 ---
 
 ## 🚀 Uso
 
-```bash
-python scanner.py -t 192.168.1.0/24
-```
+python scanD1.py
+
 
 | Argumento | Descripción |
 |-----------|-------------|
@@ -54,15 +53,6 @@ python scanner.py -t 192.168.1.0/24
 
 ## 🖥️ Demo
 
-> Acá va un screenshot o GIF del scanner corriendo en terminal (fondo negro, texto verde).  
-> Ejemplo: `docs/demo.gif`
-
-```
-[+] Escaneando 192.168.1.0/24 ...
-[+] Host activo: 192.168.1.1  (puertos: 22, 80, 443)
-[+] Host activo: 192.168.1.14 (puertos: 445)
-[+] SO detectado: Linux (kernel 5.x)
-```
 
 ---
 
@@ -71,13 +61,8 @@ python scanner.py -t 192.168.1.0/24
 Este proyecto fue creado con fines **educativos**. Usalo únicamente en redes propias o con autorización explícita. El autor no se responsabiliza por el mal uso de esta herramienta.
 
 ---
-
 ## 📜 Licencia
 
 Distribuido bajo licencia MIT. Ver [`LICENSE`](LICENSE) para más información.
-
-<div align="center">
-
-Hecho con 🐍 y demasiado café
 
 </div>
