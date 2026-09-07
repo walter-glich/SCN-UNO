@@ -28,7 +28,8 @@ detecta que tipo de dispositivo es
 (celular,iphone,pc,impresoras,etc..)
 
 ------------------------------------------
-
+Fue hecho para TERMUX.pero se puede usar en cualquier terminal con python.
+------------------------------------------
 **(INSTALACION)**
 
 **pkg install python**
