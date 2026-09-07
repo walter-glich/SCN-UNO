@@ -46,12 +46,6 @@ Fue hecho para TERMUX.pero se puede usar en cualquier terminal con python.
 
 
 ------------------------------------------
-
-**🖥️ Demo**
-
-
-------------------------------------------
-
 ## ⚠️ Disclaimer
 
 Este proyecto fue creado con fines **educativos**. Usalo únicamente en redes propias o con autorización explícita. El autor no se responsabiliza por el mal uso de esta herramienta.
