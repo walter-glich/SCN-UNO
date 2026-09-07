@@ -30,31 +30,25 @@ detecta que tipo de dispositivo es
 
 ------------------------------------------
 
-## 💻 Instalación
-
-```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd SCN-UNO
-
----
-
-## 🚀 Uso
-
-python scanD1.py
+**(INSTALACION)**
 
 
-| Argumento | Descripción |
-|-----------|-------------|
-| `-t`      | Rango de IPs o IP objetivo |
-| `-p`      | Rango de puertos a escanear |
-| `-o`      | Detectar sistema operativo |
+**git clone https://github.com/walter-glich/SCN-UNO.git
+cd SCN-UNO**
 
----
+------------------------------------------
 
-## 🖥️ Demo
+**(USO)**
+
+**python scanD1.py**
 
 
----
+------------------------------------------
+
+**🖥️ Demo**
+
+
+------------------------------------------
 
 ## ⚠️ Disclaimer
 
