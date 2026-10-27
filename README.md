@@ -18,12 +18,12 @@
 </div>
 
 ------------------------------------------
-🌐 **Escaneo de IPs** — 
+ **Escaneo de IPs** — 
 detecta hosts activos en la red
 
-🔓 **Escaneo de puertos** — identifica puertos abiertos en los hosts encontrados
+ **Escaneo de puertos** — identifica puertos abiertos en los hosts encontrados
 
-🖥️ **Deteccion de Dispositivos**
+ **Deteccion de Dispositivos**
 detecta que tipo de dispositivo es
 (celular,iphone,pc,impresoras,etc..)
 
@@ -46,12 +46,12 @@ Fue hecho para TERMUX.pero se puede usar en cualquier terminal con python.
 
 
 ------------------------------------------
-## ⚠️ Disclaimer
+##Disclaimer
 
 Este proyecto fue creado con fines **educativos**. Usalo únicamente en redes propias o con autorización explícita. El autor no se responsabiliza por el mal uso de esta herramienta.
 
 ---
-## 📜 Licencia
+##Licencia
 
 Distribuido bajo licencia MIT. Ver [`LICENSE`](LICENSE) para más información.
 
